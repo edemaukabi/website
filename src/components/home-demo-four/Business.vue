@@ -40,7 +40,7 @@
 
                 <div class="col-lg-6 col-md-12">
                     <div class="business-image">
-                        <img src="../../assets/images/Yinka Aboyade.jpeg" alt="image">
+                        <img src="../../assets/images/person-paying-with-its-smartphone-wallet-app.jpg" alt="image">
                     </div>
                 </div>
             </div>

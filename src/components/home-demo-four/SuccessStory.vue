@@ -31,7 +31,7 @@
 
                                     <div class="col-lg-6 col-md-6 p-0">
                                         <div class="image">
-                                            <img src="../../assets/images/Sunday Agbi.jpeg" alt="image">
+                                            <img src="../../assets/images/pexels-rebrand-cities-1367269.jpg" alt="image">
                                         </div>
                                     </div>
                                 </div>

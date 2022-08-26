@@ -4,7 +4,7 @@
             <div class="payment-features-overview">
                 <div class="payment-features-image">
                     <div class="image">
-                        <img src="../../assets/images/Tochi Irogalachi.jpeg" alt="image">
+                        <img src="../../assets/images/young-african-woman-recommending-online-shopping-while-holding-card-smartphone.jpg" alt="image">
                     </div>
                 </div>
 
@@ -37,7 +37,7 @@
 
                 <div class="payment-features-image">
                     <div class="image">
-                        <img src="../../assets/images/Tope Runsewe.jpeg" alt="image">
+                        <img src="../../assets/images/pexels-monstera-9432424.jpg" alt="image">
                     </div>
                 </div>
             </div>
