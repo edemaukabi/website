@@ -4,8 +4,8 @@
             <div class="container">
                 <nav class="navbar navbar-expand-lg navbar-light">
                     <router-link class="navbar-brand" to="/">
-                        <img src="../../assets/images/pay white.png" alt="image">
-                        <img src="../../assets/images/pay color.png" alt="image">
+                        <img src="../../assets/images/paymi-logo-white-new.png" alt="image">
+                        <img src="../../assets/images/paymi-logo-color-new.png" alt="image">
                     </router-link>
 
                     <!-- <b-navbar-toggle target="navbarSupportedContent">

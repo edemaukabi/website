@@ -2,15 +2,15 @@
     <div>
         <Navbar />
         <MainBanner />
-        <Partner />
-        <Experience />
+        <!-- <Partner /> -->
+        <!-- <Experience /> -->
         <!-- <Support /> -->
-        <Business />
+        <!-- <Business /> -->
         <!-- <Testimonials /> -->
-        <SuccessStory />
+        <!-- <SuccessStory /> -->
         <!-- <Global /> -->
-        <Payment />
-        <GetStarted />
+        <!-- <Payment /> -->
+        <!-- <GetStarted /> -->
         <Footer /> 
     </div>
 </template>
@@ -18,15 +18,15 @@
 <script>
 import Navbar from '../layout/Navbar'
 import MainBanner from '../home-demo-four/MainBanner'
-import Partner from '../home-demo-four/Partner'
-import Experience from '../home-demo-four/Experience'
+// import Partner from '../home-demo-four/Partner'
+// import Experience from '../home-demo-four/Experience'
 // import Support from '../home-demo-four/Support'
-import Business from '../home-demo-four/Business'
+// import Business from '../home-demo-four/Business'
 // import Testimonials from '../home-demo-four/Testimonials'
-import SuccessStory from '../home-demo-four/SuccessStory'
+// import SuccessStory from '../home-demo-four/SuccessStory'
 // import Global from '../home-demo-four/Global'
-import Payment from '../home-demo-four/Payment'
-import GetStarted from '../home-demo-four/GetStarted'
+// import Payment from '../home-demo-four/Payment'
+// import GetStarted from '../home-demo-four/GetStarted'
 import Footer from '../layout/Footer'
 
 export default {
@@ -34,15 +34,15 @@ export default {
     components: {
         Navbar,
         MainBanner,
-        Partner,
-        Experience,
+        // Partner,
+        // Experience,
         // Support,
-        Business,
+        // Business,
         // Testimonials,
-        SuccessStory,
+        // SuccessStory,
         // Global,
-        Payment,
-        GetStarted,
+        // Payment,
+        // GetStarted,
         Footer,
     }
 }

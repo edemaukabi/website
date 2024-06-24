@@ -4,8 +4,8 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="banner-wrapper-content">
-                        <h1>Empower your Business with PayOS</h1>
-                        <p>Hundreds of individuals, SMEs and Organizations use Paymi to take payments, accept deposits, and conduct offline business transactions.</p>
+                        <h1>Payments at your Fingertips </h1>
+                        <p>At Paymi Solutions Limited, we simplify payments for individuals and businesses of all sizes, ensuring secure and efficient transactions for everyone.</p>
                         <a href="mailto:Projects@paymi.com.ng" class="btn btn-primary">CONTACT US</a>
                     </div>
                 </div>
